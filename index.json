@@ -1,0 +1,21 @@
+{
+  "ver": 1.0,
+  "se":{
+    "3": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/clockclock.mp3"},
+    "8": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/button.mp3"},
+    "9": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/nuki.mp3"},
+    "25": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/pon.mp3"},
+    "26": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/pon.mp3"},
+    "27": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/kan.mp3"},
+    "28": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/kan.mp3"},
+    "29": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/chi.mp3"},
+    "30": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/chi.mp3"},
+    "31": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/riichi.mp3"},
+    "32": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/riichi.mp3"},
+    "33": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/ron.mp3"},
+    "34": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/ron.mp3"},
+    "35": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/tsumo.mp3"},
+    "36": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/tsuno.mp3"},
+    "40": {"url": "https://github.com/Mouse-debug/TenhouSE/blob/main/SE/start.mp3"}
+  }
+}
